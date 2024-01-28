@@ -1,8 +1,8 @@
 Criando main.txt
-<<<<<<< HEAD
-
 Nova linha add pelo GitHub
-=======
 Nova linha remota
->>>>>>> branch_remota
+
 Nova linha local - Fetch
+Nova linha remoto Fetch
+
+
